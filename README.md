@@ -39,7 +39,7 @@ working in the C programming language. The specific list of projects contained f
 
 ## Author✍️
 
-* **[Suara Ayomide](https://twitter.com/Ahmed05Elsayed)** <[Aysuarex](https://github.com/Ahmed05Elsayed)>
+* **[Twitter](https://twitter.com/Ahmed05Elsayed)** <[AhmedElsayed](https://github.com/Ahmed05Elsayed)>
 
 ## Acknowledgements🙏
 
