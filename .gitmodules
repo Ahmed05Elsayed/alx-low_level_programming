@@ -1,15 +1,15 @@
 [submodule "0x16-simple_shell"]
 	path = 0x16-simple_shell
-	url = https://github.com/aysuarex/simple_shell
+	url = https://github.com/Ahmed05Elsayed/simple_shell
 [submodule "0x11-printf"]
 	path = 0x11-printf
-	url = https://github.com/aysuarex/printf
+	url = https://github.com/Ahmed05Elsayed/printf
 [submodule "0x1D-binary_trees"]
 	path = 0x1D-binary_trees
-	url = https://github.com/aysuarex/binary_trees
+	url = https://github.com/Ahmed05Elsayed/binary_trees
 [submodule "0x1B-sorting_algorithms"]
 	path = 0x1B-sorting_algorithms
-	url = https://github.com/aysuarex/sorting_algorithms
+	url = https://github.com/Ahmed05Elsayed/sorting_algorithms
 [submodule "0x19-stacks_queues-lifo_fifo"]
 	path = 0x19-stacks_queues-lifo_fifo
-	url = https://github.com/aysuarex/monty
+	url = https://github.com/Ahmed05Elsayed/monty
